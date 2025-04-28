@@ -44,3 +44,17 @@ Implémentation complète de l'algorithme DES (Data Encryption Standard) avec un
 ```bash
 git clone https://github.com/zikoelj/DES_Algorithm.git
 cd DES_Algorithm
+
+Contribution
+Les contributions sont les bienvenues pour :
+
+Améliorer l'interface graphique
+
+Optimiser les performances
+
+Ajouter des tests unitaires
+
+Améliorer la documentation
+
+Licence
+Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
