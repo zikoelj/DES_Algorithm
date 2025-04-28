@@ -5,4 +5,42 @@
 
 Implémentation complète de l'algorithme DES (Data Encryption Standard) avec une interface graphique en cours de développement.
 
-## Structure du Projet
+
+## Fonctionnalités Implémentées
+
+### Cryptographie DES
+- Chiffrement/déchiffrement 64-bit
+- 16 tours de Feistel
+- Génération des 16 sous-clés
+- Permutations IP/IP⁻¹, E, P
+- Substitutions par S-boxes
+
+### Traitement de Texte
+- Conversion ASCII/binaire
+- Padding automatique (PKCS#7)
+- Découpage en blocs de 64 bits
+
+## Travail en Cours
+
+### Interface Graphique (GUI)
+🚧 **En développement** :
+- Fenêtre principale avec zones de texte
+- Boutons de chiffrement/déchiffrement
+- Affichage des résultats binaires
+- Gestion des erreurs utilisateur
+
+### Fonctionnalités à Venir
+- Export des résultats en fichier
+- Visualisation des étapes intermémentaires
+- Support des modes ECB/CBC
+
+## Utilisation
+
+### Prérequis
+- Python 3.8+
+- Tkinter (généralement inclus avec Python)
+
+### Installation
+```bash
+git clone https://github.com/votre-utilisateur/DES_Project.git
+cd DES_Project
