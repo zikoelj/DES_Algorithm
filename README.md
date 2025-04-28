@@ -42,5 +42,5 @@ Implémentation complète de l'algorithme DES (Data Encryption Standard) avec un
 
 ### Installation
 ```bash
-git clone https://github.com/votre-utilisateur/DES_Project.git
-cd DES_Project
+git clone https://github.com/zikoelj/DES_Algorithm.git
+cd DES_Algorithm
